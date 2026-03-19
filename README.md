@@ -9,6 +9,10 @@ This repository contains a ROS 2 (Humble) based motion planning framework for th
 
 The project strictly focuses on industrial-grade trajectory execution, incorporating **Time-Optimal Trajectory Generation (TOTG)** to ensure smooth, high-frequency motor control and eliminate mechanical jitter during path execution.
 
+## 🎥 Demonstration
+[rrt_doosan.webm](https://github.com/user-attachments/assets/5ed21e00-23be-43b4-a83b-239081638a35)
+
+
 ## 🚀 Core Features
 1. **`basic_motion_node`**: 
    * Demonstrates Cartesian space (XYZ) Inverse Kinematics (IK) solving.
